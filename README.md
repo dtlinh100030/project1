@@ -1,1 +1,1 @@
-# project1
+pip install -r Python/requirements.txt
